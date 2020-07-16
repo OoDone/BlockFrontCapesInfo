@@ -1,9 +1,0 @@
-{
-  "dev": {
-    "capeUrl": "https://raw.githubusercontent.com/OoDone/BlockFrontCapesInfo/master/custom-cape-1594866231.png",
-    "users": [
-      "febdb673-a69e-40ca-8745-82d3c92cd447"
-    ]
-  },
-  "febdb673-a69e-40ca-8745-82d3c92cd447": "https://raw.githubusercontent.com/OoDone/BlockFrontCapesInfo/master/green-creeper(1).png"
-}
